@@ -1,6 +1,6 @@
 ﻿//Программа, принимающая на вход трехзначное число и на выходе показывающая вторую цифру этого числа.
 
-Console.WriteLine("Ведите трёхзначное число: ");
+Console.Write("Ведите трёхзначное число: ");
 int threeDigitN = Convert.ToInt32(Console.ReadLine());
 
 int twoDigitN = threeDigitN / 10;
