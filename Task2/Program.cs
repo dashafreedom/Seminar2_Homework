@@ -8,6 +8,6 @@ if (N.Length > 2)
   Console.WriteLine(N[2]);
 }
 else
- {
+{
   Console.WriteLine("третьей цифры не существует");
 }
